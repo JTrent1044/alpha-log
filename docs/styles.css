@@ -1,0 +1,44 @@
+/*Styles relating to types of text*/
+.p { /*For general text*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    }
+.speak { /*For generalized character speech*/
+    font-family: Georgia,Palatino,serif
+    }
+.computer { /*For computerized or robotic text. Usually indicated otherwise by smallcaps.*/
+    font-family: monospace; 
+    font-size: 0.8em;
+    }
+.chat { /*For 'Chat-Client' style text*/
+    background-color: #eee;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    white-space: nowrap;
+    font-size: 1.1em;
+    font-family: monospace;
+    padding: 2px;
+    }
+.ooc { /*For out-of-character text. Typically used after chat style.*/
+    color:#BFAA67;
+    font-family: monospace;
+    white-space: normal;
+    }
+.svy-speak {font-family: Impact, sans-serif}
+.alph-speak {font-family: Papyrus, serif}
+
+/*Styles relating to colors*/
+.black {
+    color:black;
+    text-shadow: -1px 1px 2px grey, 1px -1px 2px grey, 1px 1px 2px white, -1px -1px 2px white;
+    font-weight: bold;
+    }
+.white {
+    color:white;
+    text-shadow: -1px 1px 2px darkgrey, 1px -1px 2px darkgrey, 1px 1px 2px black, -1px -1px 2px black;
+    font-weight: bold;
+    }
+.cyan {color:cyan}
+.red {color:red}
+.purple {color:purple}
+.green {color:green}
+.blue {color:blue}
