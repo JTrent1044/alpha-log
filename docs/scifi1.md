@@ -4,8 +4,6 @@ layout: template
 filename: scifi1.md
 --- 
 
-<link rel="stylesheet" href="styles.css">
-
 Svyatoslav Nevreski climbed slowly onto the bridge, bare chested as he often was and wearing nothing but tight uniform pants. He stretched softly, stifling a fang-mawed yawn as he leaned on the back of his chair. "<span class="svy-speak">Alph. Situation report. I know you're still being integrated into ship systems... but has the Primary Tachyon net caught a High Energy Tachyon yet? Or are we still playing the waiting game?</span>" The FTL drives of the Calumet were 'Tachyon-Bubble' drives... which used a single High Energy Tachyon to create a pseudo-bubble of lower-energy tachyons around the ship that would allow the ship to travel at hyper-FTL speeds in the plane of energy where Tachyons existed... for as long as the bubble retained its integrity due to impacts with tachyons in 'tach-space.' While they did not need to 'charge' their Tach-Drive, they did need to capture High Energy Tachyons to create the bubble. HETs were most often created and thrown out by stars...which also where the most resistance from Low Energy Tachyons were.
 
 Alph had been straight up purchased from a 'Used AI Dealer' at the last Waystation before the Calumet left the regulated trade lanes.
